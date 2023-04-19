@@ -1,0 +1,2 @@
+- Needs MySQL Server
+- Create a database named "employee_management_system"
