@@ -44,7 +44,7 @@ export default class ListEmployeeComponent extends Component {
                                         <tr key={employee.id}>
                                             <td>{employee.firstName}</td>
                                             <td>{employee.lastName}</td>
-                                            <td>{employee.emailID}</td>
+                                            <td>{employee.emailId}</td>
                                         </tr>
                                     
                                 )
